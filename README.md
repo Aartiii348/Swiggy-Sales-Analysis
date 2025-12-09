@@ -25,27 +25,9 @@ Delivery partner staffing
 
 Festival/season-based promotions
 
-**Datasets Used**
-
-File: Swiggy Raw Project.xlsx
-
-Data Includes:
-
-Month names
-
-Monthly total revenue (Sum of Price (INR))
-
-Example structure:
-
-Month	Revenue (INR)
-Jan	68,25,186.03
-Feb	62,69,105.67
-Mar	65,73,530.07
-...	...
-
 **Dashboard Screenshot**
 
-<img width="1920" height="1020" alt="Screenshot 2025-12-09 140236" src="https://github.com/user-attachments/assets/00df0927-91db-4e8e-bfd0-5f8d4ba81ec1" />
+<img width="1075" height="600" alt="Screenshot 2025-12-09 140236" src="https://github.com/user-attachments/assets/489fbde5-8203-45a8-94a8-ac383ecc51a8" />
 
 **Project Insights**
 
@@ -119,7 +101,7 @@ Dashboard Creation
 
 **Project Links**
 
-GitHub Repository: 
+GitHub Repository: https://github.com/Aartiii348/Swiggy-Sales-Analysis
 
 
 
